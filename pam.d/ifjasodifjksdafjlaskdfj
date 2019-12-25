@@ -1,0 +1,41 @@
+lo        Interface doesn't support scanning.
+
+eth0      Interface doesn't support scanning.
+
+wlan0     Scan completed :
+          Cell 01 - Address: 30:23:03:41:34:6B
+                    Channel:9
+                    Frequency:2.452 GHz (Channel 9)
+                    Quality=70/70  Signal level=-25 dBm  
+                    Encryption key:on
+                    ESSID:"Van Deelen Boven 2GHz"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 11 Mb/s; 9 Mb/s
+                              18 Mb/s; 36 Mb/s; 54 Mb/s
+                    Bit Rates:6 Mb/s; 12 Mb/s; 24 Mb/s; 48 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000000000000000
+                    Extra: Last beacon: 60ms ago
+                    IE: Unknown: 001556616E204465656C656E20426F76656E203247487A
+                    IE: Unknown: 010882848B961224486C
+                    IE: Unknown: 030109
+                    IE: Unknown: 050400010000
+                    IE: Unknown: 0706474220010D1E
+                    IE: Unknown: 33082001020304050607
+                    IE: Unknown: 33082105060708090A0B
+                    IE: Unknown: 2A0106
+                    IE: Unknown: 32040C183060
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DD310050F204104A000110104400010210470010D9F294D114C411E9800030230341346A103C0001011049000600372A000120
+                    IE: Unknown: 0B05010000127A
+                    IE: Unknown: 2D1A2F0017FFFFFFFF000000000000000000000000000C1804871900
+                    IE: Unknown: 3D1609000500000000000000000000000000000000000000
+                    IE: Unknown: BF0C0178CB33AAFF1806AAFF1806
+                    IE: Unknown: C005000000AAFF
+                    IE: Unknown: 7F080100000000000000
+                    IE: Unknown: DD180050F2020101000003A4000027A4000042435E0062322F00
+                    IE: Unknown: DD07000C430F000000
+                    IE: Unknown: DD21000CE708000000BF0CB101C0332AFF92042AFF9204C0050000002AFFC303010202
+
